@@ -1,6 +1,5 @@
 from discord.ext.commands import group
 from discord import Embed
-import json
 
 player_stats = \
 '''Tier:\t\t\t\t  {}
