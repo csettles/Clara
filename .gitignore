@@ -1,0 +1,6 @@
+*.json
+*.log
+.DS_STORE
+*.pyc
+__pycache__
+settings.py
